@@ -7,7 +7,7 @@ This project is submitted for [MLH - HackFit 2 Hackathon](https://hackfit-2.devp
 The Idea behind **Be Well** is to create a fitness Web Application for users to be fit from wherever they are. We also provide an e-commerce store for users to buy fitness products and services.
 
 # Technology Stack Used:
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ahamedbasha-n/GHW-init2023/main/velo.png" alt="html5" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ahamedbasha-n/be_well/main/images/velo.png" alt="html5" width="40" height="40"/> </a>
 
 ## Structure of the Project:
 
