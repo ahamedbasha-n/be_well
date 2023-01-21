@@ -1,2 +1,2 @@
-# be_well
-Be Well - Get Training from the Experts
+# Be Well.
+Be Well - Get Training from the experts
