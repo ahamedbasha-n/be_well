@@ -24,7 +24,7 @@ The Idea behind **Be Well** is to create a fitness Web Application for users to 
 ## Challenges I ran into 💻
 - Fixing Dynamic Pages within another page and maintaining right databases.
 - Authentication (Login/Logout).
-- Understanding the fucntionality of the items inside the pages.
+- Understanding the functionality of the items inside the pages.
 
 ## Accomplishments that I'm proud of 🏆
 This is the **First Time** I'm using [Wix](https://www.wix.com/velo) and I am very surprised with the features. Specially Integrating an E-commerce was a wonderful learning experience to me.
