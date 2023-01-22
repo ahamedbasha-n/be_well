@@ -1,5 +1,5 @@
 # Be Well 🤸‍♂️
-Get Training from the experts
+Get Training from the experts.
 This project is submitted for [MLH - HackFit 2 Hackathon](https://hackfit-2.devpost.com/)
 
 Visit the site here - [Be Well](https://gamesahamed354.wixsite.com/bewell)
@@ -36,7 +36,7 @@ This is the **First Time** I'm using [Wix](https://www.wix.com/velo) and I am ve
 4. User Authentication (Login/Logout)
 5. Using Databases
 6. Integrate Payment Methods
-7. Add Apps for additional functionality and more...
+7. Add Apps for additional functionality and more.
 
 ## Show your support
 
