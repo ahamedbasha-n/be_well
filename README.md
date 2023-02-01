@@ -38,10 +38,6 @@ This is the **First Time** I'm using [Wix](https://www.wix.com/velo) and I am ve
 6. Integrate Payment Methods
 7. Add Apps for additional functionality and more.
 
-## Demo Video
-
-https://user-images.githubusercontent.com/69695103/216136732-74034ebe-5c4b-4fae-8717-d7f451604d4d.mp4
-
 ## Show your support
 
 Please ⭐️ this repository if you liked this project!
